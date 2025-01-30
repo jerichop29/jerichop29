@@ -3,6 +3,9 @@ I'm a Computer Science student and an aspiring developer with a passion for buil
 
 My interests lie in mobile app development, web development, and computer vision, and I love working on projects that enhance real-world applications. I am always eager to expand my skill set and collaborate on exciting tech-driven ideas!
 
+![Exciting Moment GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQ1Mms3bngyOHBwZzR1NmwweTg0b2R4cjE3aTNnbGFieG5xa3Z1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif)
+![Welcome GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdiMjZ1Nm9maGhlejZyMXM0NHNkdzdzMTU5a2gxb3pscW5mODh2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
 ---
 
 ## 📊 GitHub Stats
