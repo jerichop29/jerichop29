@@ -53,7 +53,7 @@ My interests lie in web development, mobile app development, and computer vision
   <a href="https://discord.com/users/jerichopecho123" target="_blank">  
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />  
   </a>  
-  <a href="mailto:jerichopecho84@gmail.com" target="_blank">  
+  <a href="mailto:jerichopecho123@gmail.com" target="_blank">  
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />  
   </a>  
   <a href="https://www.linkedin.com/in/jericho-pecho-608412332/" target="_blank">  
