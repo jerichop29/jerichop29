@@ -1,4 +1,4 @@
-## Hi 👋! My name is Jericho Pecho
+## Hi 👋! My name is Jericho
 I'm a Computer Science student and an aspiring developer with a passion for building innovative software solutions. I enjoy working with cutting-edge technologies, solving complex problems, and continuously learning about software development, computer vision, and machine learning.
 
 My interests lie in web development, mobile app development, and computer vision, and I love working on projects that enhance real-world applications. I am always eager to expand my skill set and collaborate on exciting tech-driven ideas!
