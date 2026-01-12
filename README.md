@@ -45,6 +45,8 @@
   <img src="https://skillicons.dev/icons?i=numpy" height="60" alt="numpy logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=seaborn" height="60" alt="seaborn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=seaborn" height="60" alt="seaborn logo" />
 </div>
 
 
