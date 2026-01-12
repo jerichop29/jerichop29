@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
+
 ###
 
 <div align="center">
@@ -47,7 +48,10 @@
 
 </div>
 
-
+###
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sooty-five.vercel.app?user=jerichop29&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+</div>
 
 <div align="center">
   <a href="www.linkedin.com/in/jericho-pecho">
