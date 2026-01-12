@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BD8FF0&width=435&lines=%F0%9F%91%8B+Hi+there!+I%E2%80%99m+Jericho+Pecho.;%F0%9F%92%BB+Full-stack+%26+AI+developer;%F0%9F%9A%80+Love+solving+tough+problems;%F0%9F%8C%B1+Exploring+AI%2FML+Development;%F0%9F%A4%96+I+integrate+AI+into+apps.;%E2%9C%A8+Let%E2%80%99s+build+something+cool!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BD8FF0&width=435&lines=%F0%9F%91%8B+Hi+there!+I%E2%80%99m+Jericho+Pecho;%F0%9F%92%BB+Full-stack+%26+AI+developer;%F0%9F%9A%80+Love+solving+tough+problems;%F0%9F%8C%B1+Exploring+AI%2FML+Development;%F0%9F%A4%96+I+integrate+AI+into+apps;%E2%9C%A8+Let%E2%80%99s+build+something+cool!" alt="Typing SVG" /></a>
 </div>
 
 
