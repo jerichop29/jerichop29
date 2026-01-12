@@ -50,3 +50,6 @@
 </picture>
 
 ###
+
+
+![pacman gif](https://github.com/jerichop29/jerichop29/blob/output/pacman-contribution-graph-dark.svg)
