@@ -37,17 +37,16 @@
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
   <img width="12" />
 
-  <!-- Data Science -->
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="60" alt="matplotlib logo" />
+  <!-- IDEs & Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="60" alt="pandas logo" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="android studio logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="60" alt="numpy logo" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=seaborn" height="60" alt="seaborn logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=seaborn" height="60" alt="seaborn logo" />
+
 </div>
+
 
 
 <div align="center">
