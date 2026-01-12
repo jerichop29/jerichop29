@@ -8,6 +8,7 @@ My interests lie in web development, mobile app development, and computer vision
 ---
 
 ## 📊 GitHub Stats
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerichop29" alt="jerichop29" /></a> </p>
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=jerichop29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
   <img src="https://streak-stats.demolab.com?user=jerichop29&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />  
