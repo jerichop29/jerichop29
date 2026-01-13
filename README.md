@@ -59,25 +59,31 @@
 
 ###
 <div align="center">
-  <a href="https://www.linkedin.com/in/jericho-pecho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+   <a href="https://jerichop29.github.io/jerichoportfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D6EFD?style=for-the-badge&logo=githubpages&logoColor=white" height="25" alt="Portfolio" />
   </a>
-  <a href="https://discord.com/users/_jerichx29" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
+
+  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
+
   <a href="https://www.facebook.com/jericho.pecho.2024/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
+
   <a href="https://www.instagram.com/iamjerichx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
+
   <a href="https://www.youtube.com/@JerichoDevWorks" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
   </a>
+
   <a href="https://x.com/PechoJericho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X%20(Twitter)&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
+    <img src="https://img.shields.io/static/v1?message=X%20(Twitter)&logo=x-twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
   </a>
 </div>
+
 
 
 
