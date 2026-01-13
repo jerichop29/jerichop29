@@ -56,20 +56,31 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sooty-five.vercel.app?user=jerichop29&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </div>
 
+
+###
 <div align="center">
-  <a href="www.linkedin.com/in/jericho-pecho">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/jericho-pecho" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://discord.com/users/_jerichx29">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <a href="https://discord.com/users/_jerichx29" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
   </a>
-  <a href="https://www.facebook.com/jericho.pecho.2024/">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="facebook logo" />
+  <a href="https://www.facebook.com/jericho.pecho.2024/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
-  <a href="https://www.instagram.com/iamjerichx/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
+  <a href="https://www.instagram.com/iamjerichx/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
+  </a>
+  <a href="https://www.youtube.com/@JerichoDevWorks" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
+  </a>
+  <a href="https://x.com/PechoJericho" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X%20(Twitter)&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
   </a>
 </div>
+
+
+
 
 
 ###
