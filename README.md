@@ -18,10 +18,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="12" />
+  
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
@@ -32,6 +33,8 @@
   <img width="12" />
 
   <!-- Frontend & UI -->
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
@@ -39,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="materialui logo" />
   <img width="12" />
 
   <!-- IDEs & Tools -->
@@ -48,6 +53,33 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="60" alt="sublime logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="60" alt="sublime logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="sklearn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo" />
+  <img width="12" />
+
 
 </div>
 
