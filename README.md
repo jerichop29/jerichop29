@@ -3,7 +3,7 @@
 <div align="center">
   <picture>
     <source 
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:C7154A%2C100:F85D7F&text=Hello%20👋&section=header&reversal=false&fontSize=28&textBg=false&fontColor=fefefe&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" 
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:C7154A%2C100:F85D7F&text=🔥%20Welcome%20to%20my%20GitHub%20🔥&section=header&reversal=false&fontSize=28&textBg=false&fontColor=fefefe&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" 
       media="(prefers-color-scheme: dark)" />
     <img 
       src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:bd90f1%2C100:9c6ddb&text=Hello%20👋&section=header&reversal=false&fontSize=28&textBg=false&fontColor=1F2328&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" />
