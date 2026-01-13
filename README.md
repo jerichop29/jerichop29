@@ -101,10 +101,10 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sooty-five.vercel.app?user=jerichop29&theme=dracula" alt="GitHub Streak" /></a>
   <picture>
   <source 
-    srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5" 
+    srcset="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=jerichop29&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5" 
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=ragibalasad&layout=compact&theme=default&hide_border=true&bg_color=F85D7F&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5"
+    src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=jerichop29&layout=compact&theme=default&hide_border=true&bg_color=F85D7F&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5"
     height="196"
     alt="Top Languages" />
 </picture>
